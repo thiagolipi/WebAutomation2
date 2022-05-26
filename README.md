@@ -10,4 +10,4 @@ In order to use this project, the user has to fill in the Usuario and Senha fiel
 ### Technologies Used
 - Cypress (https://www.cypress.io/)
 - JavaScript
-- JSon
+- Node.js
